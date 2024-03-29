@@ -1,0 +1,29 @@
+.sell__car {
+  /* margin-top: 100px; */
+  /* padding: 0px 10px; */
+  /* padding-bottom: 50px; */
+  background: var(--primary-color);
+  padding: 30px 30px 20px 30px  ;
+  margin: 90px 20px 20px 20px;
+  border-radius: 10px;
+width: 1050px;
+}
+
+.pagination{
+  background: var(--primary-color);
+  /* padding: 10px 10px   ; */
+  margin:  20px 20px ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: end;
+width: 1050px;
+ 
+}
+
+td{
+  text-align: center;
+}
+
+th{
+  text-align: center;
+}
